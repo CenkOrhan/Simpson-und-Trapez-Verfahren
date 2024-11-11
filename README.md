@@ -1,1 +1,0 @@
-# Simpson-und-Trapez-Verfahren
